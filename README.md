@@ -1,4 +1,4 @@
-# Norrath Reborn
+# Grimoire
 
 Home of custom **AzerothCore WotLK 3.3.5a tools**, worldbuilding utilities, server workflow improvements, and in-game addon projects.
 
