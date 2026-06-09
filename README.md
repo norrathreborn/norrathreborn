@@ -23,7 +23,7 @@ A polished AzerothCore world-editing toolkit with addon-driven controls for plac
 - ↩️ Undo support
 - 📘 PDF user guide
 
-[View Project](https://github.com/norrathreborn/GObject_Editor_Tool)
+[View Project](https://github.com/norrathreborn/GObject-Editor-Tool)
 
 ---
 
