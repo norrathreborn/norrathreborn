@@ -74,7 +74,6 @@ A desktop tool for managing AzerothCore modules with a cleaner workflow for find
 
 - 🛠️ GObject Editor Tool
 - ⚙️ Crusaders Module Manager
-- 🐾 Dual Pet Master
 - 🧰 AzerothCore workflow tools
 - 🎮 WoW 3.3.5a addon/UI projects
 
